@@ -1,0 +1,19 @@
+body{
+    background-color: #444;
+}
+.bg-color{
+    background-color: #444;
+color: #fff;
+height: 70px;
+}
+.main-body{
+    min-height: 600px;
+    background-color: white;
+    padding: 10px;
+}
+.text-h {
+	padding-top: 10px;
+}
+.ptext {
+	padding-top: 21px;
+}
